@@ -30,6 +30,14 @@
 
 Нужны только Windows 10/11 и PowerShell 5.1 (есть по умолчанию).
 
+### Вариант 0 — готовый exe из Releases
+
+Скачайте `BatteryWatt.exe` со страницы
+[Releases](https://github.com/SheensonSV/batterywatt/releases/latest), положите
+в любую постоянную папку и запустите. Автозапуск включается галочкой
+«Запускать при входе» в меню иконки. Сборка не нужна, но exe не подписан —
+SmartScreen может спросить подтверждение.
+
 ### Вариант 1 — через git
 
 ```powershell
